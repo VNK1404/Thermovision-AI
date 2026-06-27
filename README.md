@@ -537,17 +537,3 @@ pip install torch torchvision torchaudio --index-url https://download.pytorch.or
 - **PyTorch:** [pytorch.org](https://pytorch.org/)
 
 ---
-
-## 🏆 Built For
-
-**PCCOE Hackathon** — Automated wildfire and thermal anomaly detection using AI.
-
-> *"Detect fire with transparency — not just where, but why."* 🔥🧠
-
----
-
-<div align="center">
-
-**Made with ❤️ for explainable AI in fire detection systems.**
-
-</div>
