@@ -1,0 +1,19 @@
+# Core Dependencies
+ultralytics>=8.0.0          # YOLOv8 object detection
+torch>=2.0.0                # PyTorch (deep learning framework)
+torchvision>=0.15.0         # Vision utilities for PyTorch
+numpy>=1.24.0               # Numerical computing
+opencv-python>=4.8.0        # Computer vision library
+pillow>=10.0.0              # Image processing
+
+# Flask Web Framework
+flask>=3.0.0                # Web server
+werkzeug>=3.0.0             # WSGI utilities
+
+# Optional but recommended
+matplotlib>=3.8.0           # Plotting and visualization
+scipy>=1.11.0               # Scientific computing
+
+# Development (optional)
+jupyter>=1.0.0              # Jupyter notebooks
+pytest>=7.4.0               # Testing framework

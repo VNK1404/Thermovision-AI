@@ -1,0 +1,25 @@
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pt
+*.pth
+*.onnx
+*.weights
+*.zip
+*.tar
+*.gz
+*.pptx
+*.log
+.vscode/
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+
+# Large/local project artifacts
+pccoe/checkpoints/
+pccoe/dataset/
+uploads/
+runs/
+yolo_from_thermal/
+yolo_thermal_dataset/
