@@ -8,7 +8,8 @@
 - Real‑time fire detection with YOLOv8 fine‑tuned on thermal data.
 - Grad‑CAM visual explanations of model decisions.
 - Optional CycleGAN translation (RGB → Thermal) for data augmentation.
-- Simple Flask web UI for drag‑and‑drop inference.
+- Advanced 3D glassmorphism dashboard UI with interactive Grad-CAM slider.
+
 
 ---
 
